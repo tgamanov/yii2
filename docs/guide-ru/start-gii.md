@@ -85,7 +85,7 @@ CRUD расшифровывается как Create, Read, Update и Delete, п�
 * Model Class: `app\models\Country`
 * Search Model Class: `app\models\CountrySearch`
 * Controller Class: `app\controllers\CountryController`
-
+* View Path: `@app/views/country`
 ![CRUD генератор](images/start-gii-crud.png)
 
 Затем нажмите на кнопку "Preview". Вы увидите список файлов, которые будут созданы, как показано ниже.
